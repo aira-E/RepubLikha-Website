@@ -1,6 +1,3 @@
-[submodule "themes/paige"]
-	path = themes/paige
-	url = https://github.com/willfaught/paige
-[submodule "themes/hugo-w3-simple"]
-	path = themes/hugo-w3-simple
-	url = https://github.com/jesselau76/hugo-w3-simple
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
